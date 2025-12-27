@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://brijeshdevio.github.io/test-gh-page",
+  "homepage": "https://itsbrijeshio.github.io/test-gh-page",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
